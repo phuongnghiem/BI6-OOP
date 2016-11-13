@@ -10,10 +10,13 @@ Students are expected to:
 
 Member list
 =====================================
-
-*Add student list of your group here*
+Group 6:
+* Lê Tấn Nhật Linh
+* Hoàng Đức Minh
+* Nguyễn Vũ Hùng
+* Lê Tuấn Hùng
 
 Project description
 =====================================
 
-*Add your project description here*
+Design and develop a Java program to implement the “Prim’s shortest path”.
